@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skd-alt
-- 👀 I’m interested in python development
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in python development and data analysis
+- 🌱 I have over 10 years experience in software development
 - 💞️ I’m looking to collaborate on website apps for business analytics
 - 📫 How to reach me ... email sipho@skanalytics.co.za
 
